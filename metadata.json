@@ -1,0 +1,6 @@
+{
+  "name": "RWANDA GENOCIDE JUSTICE AI",
+  "description": "A secure justice-support platform and AI-assisted evidence management system for documenting and investigating crimes connected to the 1994 Genocide against the Tutsi in Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
